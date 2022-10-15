@@ -1,0 +1,1 @@
+# Nesse projeto foi desenvolvido um script para automatizar o start e stop de instâncias EC2 na nuvem AWS.
